@@ -1,2 +1,2 @@
 # Web-Clustering
-Implementation of a research paper titled 'Using Web Clustering for Web Communities Mining and Analysis' to perform web clustering.
+We performed web clustering using k-means with page correlativity measure. We referred to the research paper titled 'Using Web Clustering for Web Communities Mining and Analysis'
